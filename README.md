@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file for your GitHub profile based on the information you provided:
-
----
-
 # Welcome to my GitHub Profile! 👋
 
 ## About Me

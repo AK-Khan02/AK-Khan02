@@ -1,4 +1,5 @@
-# Welcome to my GitHub Profile! 👋
+# Welcome to my GitHub Profile! 👋   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ## About Me
 
@@ -65,10 +66,4 @@ This repository houses a collection of diverse MATLAB algorithms designed for in
 ## Contact
 
 I'm always eager to connect with like-minded individuals, collaborate on exciting projects, or discuss opportunities. Feel free to reach out to me.
-
-### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02)](https://github.com/anuraghazra/github-readme-stats)
 

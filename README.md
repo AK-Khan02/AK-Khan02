@@ -64,4 +64,7 @@ This repository houses a collection of diverse MATLAB algorithms designed for in
 
 ## Contact
 
-I'm always eager to connect with like-minded individuals, collaborate on exciting projects, or discuss opportunities. Feel free to reach out to me at am45khan@uwaterloo.ca
+I'm always eager to connect with like-minded individuals, collaborate on exciting projects, or discuss opportunities. Feel free to reach out to me.
+
+### :fire: My Stats :
+

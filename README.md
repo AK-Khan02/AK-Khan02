@@ -70,4 +70,5 @@ I'm always eager to connect with like-minded individuals, collaborate on excitin
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02)](https://github.com/anuraghazra/github-readme-stats)
 

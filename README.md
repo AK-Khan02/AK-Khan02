@@ -66,5 +66,8 @@ This repository houses a collection of diverse MATLAB algorithms designed for in
 
 I'm always eager to connect with like-minded individuals, collaborate on exciting projects, or discuss opportunities. Feel free to reach out to me.
 
-### :fire: My Stats :
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
+
 

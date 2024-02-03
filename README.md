@@ -1,5 +1,6 @@
-# Welcome to my GitHub Profile! 👋   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
+# Welcome to my GitHub Profile! 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## About Me
 

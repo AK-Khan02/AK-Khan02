@@ -66,7 +66,3 @@ This repository houses a collection of diverse MATLAB algorithms designed for in
 ## Contact
 
 I'm always eager to connect with like-minded individuals, collaborate on exciting projects, or discuss opportunities. Feel free to reach out to me.
-
-[![AK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AK-Khan02)](https://github.com/anuraghazra/github-readme-stats)
-
-

@@ -1,7 +1,5 @@
 # Welcome to my GitHub Profile! 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark)
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000" />

@@ -12,4 +12,4 @@ My curiosity in Quantitative Trading, Data Science, and the transformative power
 
 I also have a personal website where you can learn more about me and my work. Feel free to visit it [here](https://ak-khan02.github.io/) to get a deeper insight into my projects and interests.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark)

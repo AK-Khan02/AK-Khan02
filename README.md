@@ -2,10 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000" />
+    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000" height="150" />
   </a>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark" height="150" />
 </p>
+
 
 
 ## About Me

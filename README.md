@@ -1,12 +1,13 @@
 # Welcome to my GitHub Profile! 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
-" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark)" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000" />
+  </a>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark" />
+</p>
 
 
 ## About Me

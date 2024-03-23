@@ -1,6 +1,13 @@
 # Welcome to my GitHub Profile! 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
+" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark)" />
+</a>
+
 
 ## About Me
 
@@ -12,4 +19,3 @@ My curiosity in Quantitative Trading, Data Science, and the transformative power
 
 I also have a personal website where you can learn more about me and my work. Feel free to visit it [here](https://ak-khan02.github.io/) to get a deeper insight into my projects and interests.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true&theme=dark)

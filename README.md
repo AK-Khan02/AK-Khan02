@@ -2,6 +2,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AK-Khan02&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Khan02&hide_progress=true)
+
 ## About Me
 
 I'm a final-year student at the University of Waterloo, pursuing a Bachelor of Mathematics with a deep passion for numbers and patterns. My academic journey has led me into the fascinating realms of Mathematical Finance and Statistics, while I've also honed my technical skills through a minor in Computing. Beyond my studies, I actively engage in the Computer Science and Data Science Club, reflecting my commitment to continuous learning and community involvement.

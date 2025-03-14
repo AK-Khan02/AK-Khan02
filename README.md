@@ -12,10 +12,10 @@
 
 ## About Me
 
-Final year student
-Bachelor of Math
-Double Majoring in Mathematical Finance (Think Quant) and Statistics
-Minor in CS
+Final year student  
+Bachelor of Math  
+Double Majoring in Mathematical Finance (Think Quant) and Statistics  
+Minor in CS  
 
 # Explore My Website
 

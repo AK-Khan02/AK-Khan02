@@ -12,7 +12,7 @@
 
 ## About Me
 
-Final year student  
+Final year student @ uWaterloo  
 Bachelor of Math  
 Double Majoring in Mathematical Finance (Think Quant) and Statistics  
 Minor in CS  
